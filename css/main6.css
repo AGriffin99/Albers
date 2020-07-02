@@ -1,0 +1,71 @@
+body{
+    margin:0px;
+    padding: 0px;
+    background:#000000;
+    /* background-image: url("sailormoonsilhoutte.jpg"); */
+    /* background: #A12EF2; */
+}
+
+
+#container{
+    /* width: 100%;
+    height: 100%; */
+    width: 1000px;
+    height: 1000px;
+    /* 1920 x 1080 */
+    margin: 0 auto;
+}
+
+.dot:hover{
+  background:#A12EF2;
+}
+.dot{
+height: 100px;
+ width: 100px;
+ background-color: #FE403f;;
+ border-radius: 50%;
+ display: inline-block;
+
+}
+
+
+
+
+.v1{
+      background-image:url("cloud.gif");
+    position:relative;
+
+}
+.v2{
+  /* yellow */
+    background: #ffff00;
+    position: relative;
+
+}
+
+.v3{
+    background:aquamarine;
+    position:relative;
+
+}
+
+v1:hover{
+
+    position:relative;
+
+}
+v2:hover{
+  /* yellow */
+    background-image:url("cloud.gif");
+    position: relative;
+
+}
+
+v3:hover{
+    background:aquamarine;
+    position:relative;
+
+}
+    /* background: #AEFEEE;
+background: #AEF35e;
+*/
